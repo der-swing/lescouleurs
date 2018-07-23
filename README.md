@@ -4,7 +4,7 @@
 > Corbusier (often just referred to as "les couleurs").
 
 ## Preview
-![Termina Preview](/screenshots/les_corbusier.png)
+![Termina Preview](/screenshots/les_couleurs.png)
 
 If I knew how to export the color palette which holds all these colors, 
 I could also put that in the repo. Then everyone could access these colors
