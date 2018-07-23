@@ -9,6 +9,7 @@
 If I knew how to export the color palette which holds all these colors, 
 I could also put that in the repo. Then everyone could access these colors
 and fine tune the theme to his/her liking.
+
 ![Palette Preview](/screenshots/palette.png)
 
 ## Installation
@@ -16,3 +17,8 @@ and fine tune the theme to his/her liking.
 - Below the other available colorschemes (i.e. *Basic*, *Grass*, *Novel*...)
   click the cogs-icon and chose _Import..._
 - Locate the file `lescouleurs.terminal` on your filesystem and click _Open_
+
+## Credit
+The `preview.sh` file in this repo that created the preview-screenshot
+was taken from @lysyi3m and his collection of 
+[OSX terminal themes](https://github.com/lysyi3m/osx-terminal-themes)
