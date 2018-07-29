@@ -6,11 +6,22 @@
 ## Preview
 ![Termina Preview](/screenshots/les_couleurs.png)
 
-If I knew how to export the color palette which holds all these colors, 
-I could also put that in the repo. Then everyone could access these colors
-and fine tune the theme to his/her liking.
+## Palette
+If you are interested in working with these colors (maybe also use them in other
+apps in macOS), you can import the color palette `LesCouleurs.clr` into your
+color library.
 
 ![Palette Preview](/screenshots/palette.png)
+
+Steps to import the color library (assuming you cloned or downloaded this
+repository):
+
+1) Open the *Finder* on MacOS
+2) Click *Go* in the menu bar
+3) Hold down the *Option*-key (or *Alt*-key); a menu entry "Library" should
+appear - click it
+4) Locate the folder "Colors" and open it
+5) Paste the `LesCouleurs.clr` in that folder
 
 ## Installation
 - In the terminal app, go to _Preferences_ (or hit `[command]+[,]`)
