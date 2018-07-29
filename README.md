@@ -13,7 +13,7 @@ color library.
 
 ![Palette Preview](/screenshots/palette.png)
 
-Steps to import the color library (assuming you cloned or downloaded this
+Steps to import the color palette (assuming you cloned or downloaded this
 repository):
 
 1) Open the *Finder* on MacOS
